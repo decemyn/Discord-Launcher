@@ -32,7 +32,7 @@ As you may know, to reduce **_CPU usage_** discord processes automaticaly sets t
 
 -Added debug state for developing.
 
-**v1.0.1.3**
+**v1.0.1.3** **First GitHub version.**
 
 -Change log button GUI flow fix.
 
