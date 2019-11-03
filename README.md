@@ -6,7 +6,7 @@ As you may know, to reduce **_CPU usage_** discord processes automaticaly sets t
 **This launcher/tool is an one click solution to an _annoying problem_.**
 
 
-**FULL CHANGE LOG**
+**Full change log**
 
 **v1.0.0.0**
 
