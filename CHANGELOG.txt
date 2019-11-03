@@ -1,0 +1,4 @@
+CHANGE LOG FOR VERSION 1.0.1.4
+
+-Added application updater service. (BETA)
+-Renamed application to Discord Launcher.
