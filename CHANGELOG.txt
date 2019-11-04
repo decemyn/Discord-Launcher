@@ -1,11 +1,7 @@
-CHANGE LOG FOR VERSION 1.0.2.0
+CHANGE LOG FOR VERSION 1.0.2.1
 
--Fixed a bug ocurring when closing the app from the icon tray.
--Massive changes to the app update system.
--Future updates will work only from version 1.0.2.0 and newer.
--Remove past updates from the change log.(for all logs visit the GitHub page) 
--Changed the looks of the change log window.
--App checks for updates at launch by default and only display a message if
-it finds one available.
--Added check for updates button in the main menu.
--One click experience at startup.
+-Further application updater stability improvements.
+-If Discord is already running when the app is starting, now the app displays a
+message to confirm running state.
+-Only one instance of the application is now allowed.
+-Fixed a typo in the application update dialog.
