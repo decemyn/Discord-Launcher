@@ -76,3 +76,17 @@ message to confirm running state.
 -Only one instance of the application is now allowed.
 
 -Fixed a typo in the application update dialog.
+
+**v1.0.2.2**
+
+-Softcoded Discord Application path. Now Discord Launcher searches in 
+the Registry for Discord's application path.
+
+-Implemented settings feature. (BETA)
+
+-The application checks if the .settings file is present in the folder at startup.
+
+-The application settings persit between application updates if the application's
+.exe directory is not changed. (Will be fixed when the application installer is 
+implemented)
+
