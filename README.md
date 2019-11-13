@@ -90,3 +90,16 @@ the Registry for Discord's application path.
 .exe directory is not changed. (Will be fixed when the application installer is 
 implemented)
 
+**v1.0.2.3**
+
+-Further improvements to Discord's executable detection system.
+
+-If the application encounters any issues, it prompts the user to 
+manually select Discord's executable.
+
+-Added Discord executable detection wizard in application settings.
+
+-General stability fixes for the application setting system.
+
+-Fixed a bug occurring when exiting the application with close discord process at 
+application exit setting set to on.
