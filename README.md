@@ -104,7 +104,7 @@ manually select Discord's executable.
 -Fixed a bug occurring when exiting the application with close discord process at 
 application exit setting set to on.
 
-**v1.0.2.0-Third feature update**
+**v1.0.3.0-Third feature update**
 
 -Application is now dispatched with an installer.
 
