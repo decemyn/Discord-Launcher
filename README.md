@@ -103,3 +103,15 @@ manually select Discord's executable.
 
 -Fixed a bug occurring when exiting the application with close discord process at 
 application exit setting set to on.
+
+**v1.0.2.0-Third feature update**
+
+-Application is now dispatched with an installer.
+
+-First of the three major GUI updates. 1/3
+
+-Update system changes.
+
+-Minor bug fixes.
+
+-Further stability improvements.
