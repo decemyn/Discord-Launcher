@@ -20,7 +20,7 @@ This tool also acts as a fully fledged **launcher** for discord. You might ask y
 ### **ON**
 ![](Images/usage.png) ![](Images/with.png)  ![](Images/high_s.png)
 
-**As a result the application will always be responsive, even under high load conditions.**
+**As a result Discord will always be responsive, even under high load conditions.**
 
 # **NO MORE INTERRUPTIONS!**
 
