@@ -12,5 +12,16 @@ It uses a **lightweight** process listener module. This application's purpose is
 
 #### **Why use this as a discord launcher?**
 
-This tool also acts as a fully fledged **launcher** for discord. You might ask yourself why would I complicate my existence by launching discord with a launcher, but I assure you that Discord Launcher can be set-up to be a **1-Click** solution. Who wants to have to open a separate tool every time they use Discord. Discord Launcher not only starts Discord, but also starts the priority tool all in a single click!
+This tool also acts as a fully fledged **launcher** for discord. You might ask yourself why would I complicate my existence by using a launcher to start Discord, but I assure you that **Discord Launcher** can be set-up to be a **1-Click** solution. Who wants to have to open a separate tool every time they use Discord. **Discord Launcher** not only starts Discord, but also starts the priority tool all in a single click!
 
+## **Still not convinced? Check this out!**
+### **OFF**
+![](Images/usage.png) ![](Images/without.png) ![](Images/low.png) 
+### **ON**
+![](Images/usage.png) ![](Images/with.png)  ![](Images/high_s.png)
+
+**As a result the application will always be responsive, even under high load conditions.**
+
+# **NO MORE INTERRUPTIONS!**
+
+###### Proudly made by Decemyn -High school student and indie developer-
