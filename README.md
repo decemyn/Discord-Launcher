@@ -25,3 +25,4 @@ This tool also acts as a fully fledged **launcher** for discord. You might ask y
 # **NO MORE INTERRUPTIONS!**
 
 ###### Proudly made by Decemyn -High school student and indie developer-
+###### For any inquiries contact me at: radulescudecebal@outlook.com
