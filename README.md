@@ -22,6 +22,22 @@ This tool also acts as a fully fledged **launcher** for discord. You might ask y
 
 **As a result Discord will always be responsive, even under high load conditions.**
 
+## **Features**
+![](Images/low_state_img_select.png) ![](Images/high_state_img_select.png) ![](Images/settings_img.png) ![](Images/sync_img.png)  
+* **Priority state buttons for the automatic process priority setter. (LOW/HIGH)** 
+* **Settings button to change the launcher behaviour.** 
+* **Application updater service.** 
+* **Fully featured application installer built from the ground up specifically to integrate with Discord Launcher and it's update feature.**
+* **The application also works as a portable application as it does not require installation.**
+## **Screenshots**
+
+* ### _Main menu during normal operation_
+![](Images/main.png)
+* ### _Installer on the installation menu_
+![](Images/install.png)
+* ### _Installer on the uninstallation menu_
+![](Images/uninstall.png)
+
 # **NO MORE INTERRUPTIONS!**
 
 ###### Proudly made by Decemyn -High school student and indie developer-
