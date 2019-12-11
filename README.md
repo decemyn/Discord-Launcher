@@ -10,7 +10,7 @@ As you may know, to reduce **_CPU usage_** Discord processes automaticaly set to
 To mitigate this issue, Discord Launcher **forces Discord processes** to stay at a **level of _priority_** chosen by the user.
 It uses a **lightweight** process listener module. This application's purpose is to be used on lower-end computers so naturally it's built from the ground up to be **_very light_**.
 
-#### **Why use this as a discord launcher?**
+#### **Why use this as a Discord launcher?**
 
 This tool also acts as a fully fledged **launcher** for Discord. You might ask yourself why would I complicate my existence by using a launcher to start Discord, but I assure you that **Discord Launcher** can be set-up to be a **1-Click** solution. Who wants to have to open a separate tool every time they use Discord. **Discord Launcher** not only starts Discord, but also starts the priority tool all in a single click!
 
