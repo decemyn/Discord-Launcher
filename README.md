@@ -45,3 +45,4 @@ As I said before this launcher is for people with lower-end computers who strugg
 
 ###### Proudly made by Decemyn -High school student and indie developer-
 ###### For any inquiries contact me at: radulescudecebal@outlook.com
+###### Discord is a trademark of **Discord Inc.** **Discord Launcher** is **_not affiliated_** with **Discord Inc.** in any ways. The Discord logo and brand is used with permission from **Discord Inc.**
