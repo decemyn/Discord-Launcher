@@ -1,8 +1,5 @@
-CHANGE LOG FOR VERSION 1.0.3.0
+CHANGE LOG FOR VERSION 1.0.3.1
 
--Application is now dispatched with an installer.
--First of the three major GUI updates. 1/3
--Update system changes.
+-Added development builds and handling for them in updater system.
+-New UI for settings menu.
 -Minor bug fixes.
--Further stability improvements.
-
