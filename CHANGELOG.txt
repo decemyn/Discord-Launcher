@@ -1,8 +1,0 @@
-CHANGE LOG FOR VERSION 1.0.3.3
-
--Settings menu sidebar has a dynamic size.
--Close Discord prompt can now be canceled.
--Fixed settings menu font.
--Added more buttons to the settings menu's side panel.
--Fixed a bug where the close Discord prompt would show up twice.
--Stability fixes in the close Discord method.
