@@ -1,10 +1,9 @@
-CHANGE LOG FOR VERSION 1.0.3.7
+CHANGE LOG FOR VERSION 1.0.3.8
 
--Fixed a bug with the application sometimes now showing upon double-clicking the icon tray, or pressing the icon tray show button.
--Changed the title bar highlight color when maximizing the application, to increase visibility.
--The title bar now highlights when dragging it to minimize the application.
--Slightly increased the settings menu font size for better visibility.
--Fixed a bug where the application would be off-center upon minimizing it.
--Advanced custom font API built.
--Memory optimizations across the entire application.
--First UI batch for the help menu.
+-The changelog now automatically pops-up after updating the application.
+-Fixed a bug with the application size not initializing correctly upon updating the application.
+-Deprecated help menu completely removed from the assembly.
+-Changes to the help menu layout and font size/handling.
+-Added the buttons section to the help menu.
+-Made the button section from the help menu hideable.
+-Slight changes to the help menu's text color.
