@@ -1,1 +1,176 @@
+CHANGE LOG FOR VERSION 1.0.3.9
 
+-Created What's New section for details about new updates. It's this menu.
+-What's New section uses a soft resize system with different size breakpoints. So, animations! Yay
+-Added social links in the help menu. Links to my Reddit and this project's GitHub.
+-Added about section in the help menu. There you cand find info about this application, like how it works and what it does.
+-Fixed a bug occurring when the application was maximized and the user could move it slightly left or right and it would keep that position instead of recentering.
+-Fixed a bug in the update system, occurring when GitHub servers are down.
+-Slight changes to the application's color palette. Everything looks so much better and softer. :)
+-Small refinements to the help menu's UI. Colors are changed and everything is smoother. It should look better.
+
+
+CHANGE LOG FOR VERSION 1.0.3.8
+
+-The changelog now automatically pops-up after updating the application.
+-Fixed a bug with the application size not initializing correctly upon updating the application.
+-Deprecated help menu completely removed from the assembly.
+-Changes to the help menu layout and font size/handling.
+-Added the buttons section to the help menu.
+-Made the button section from the help menu hideable.
+-Slight changes to the help menu's text color.
+
+
+CHANGE LOG FOR VERSION 1.0.3.7
+
+-Fixed a bug with the application sometimes now showing upon double-clicking the icon tray, or pressing the icon tray show button.
+-Changed the title bar highlight color when maximizing the application, to increase visibility.
+-The title bar now highlights when dragging it to minimize the application.
+-Slightly increased the settings menu font size for better visibility.
+-Fixed a bug where the application would be off-center upon minimizing it.
+-Advanced custom font API built.
+-Memory optimizations across the entire application.
+-First UI batch for the help menu.
+
+
+CHANGE LOG FOR VERSION 1.0.3.6
+
+-The title bar now darkens when dragging the window to the top to maximize it.
+-Fixed a bug where you could resize the window when it was maximized.
+-Completely removed the deprecated settings menu from the assembly.
+-Settings text font finally fixed.
+Startup behavior
+-Changes to the settings menu UI.
+-Moved settings into multiple sections.
+-Added the ability to hide sections in the settings menu.
+
+
+CHANGE LOG FOR VERSION 1.0.3.5
+
+-Fixed a bug where the window size wouldn't save under certain conditions.
+-Fixed a bug where you could minimize the app and it would appear in the alt+tab menu.
+-Dynamic elements resize overhaul. (Works much faster)
+-Added maximize/minimize window button.
+-Created the layout for the help menu.
+-Reset to default button now also resets the application size and position to default.
+
+
+CHANGE LOG FOR VERSION 1.0.3.4
+
+-Fixed settings side panel position (1-pixel gap).
+-Fixed a bug where the launcher wouldn't stop when the close Discord prompt is on and Discord is not open.
+-Fixed a bug where the priority listener would stop upon canceling the close Discord prompt and the launcher would stop working as expected. (functionality breaking bug)
+-Fixed a bug where the launcher would appear in the windows application manager when the launcher would minimize upon starting.
+-Added a new Windows notification from the launcher if it detects Discord already running upon starting the launcher.
+-Fixed the Windows notification's not working correctly in accordance with the user's custom settings.
+-Fixed a bug where a UI reference would not be set when opening the settings menu from the icon tray.
+-User Interface performance optimizations.
+-Settings menu buttons now have a dynamic location when resizing the launcher.
+-User Interface now responds dynamically to being resized.
+-Added two more side panel buttons for the settings menu.
+-Removed the old legacy settings menu.
+
+
+CHANGE LOG FOR VERSION 1.0.3.3
+
+-Settings menu sidebar has a dynamic size.
+-Close Discord prompt can now be canceled.
+-Fixed settings menu font.
+-Added more buttons to the settings menu's side panel.
+-Fixed a bug where the close Discord prompt would show up twice.
+-Stability fixes in the close Discord method.
+
+
+CHANGE LOG FOR VERSION 1.0.3.2
+
+-Removed development builds from the updater system.
+-Fixed a bug in the updater system.
+-Further changes to the settings UI.
+-Fixed a bug where the main panel would disappear under certain conditions.
+-Moved legacy settings menu to the right-click menu.
+-Added the new settings menu to the right-click menu.
+-Added a cursor for all the buttons in the application.
+-Added a prompt for closing discord upon closing the application.
+
+
+CHANGE LOG FOR VERSION 1.0.3.1
+
+-Added development builds and handling for them in updater system.
+-New UI for settings menu.
+-Minor bug fixes.
+
+
+CHANGE LOG FOR VERSION 1.0.3.0
+
+-Application is now dispatched with an installer.
+-First of the three major GUI updates. 1/3
+-Update system changes.
+-Minor bug fixes.
+-Further stability improvements.
+
+
+**SECTION 3.0 THE UI BUILD**
+
+
+CHANGE LOG FOR VERSION 1.0.2.3
+
+-Further improvements to Discord's executable detection system.
+-If the application encounters any issues, it prompts the user to 
+manually select Discord's executable.
+-Added Discord executable detection wizard in application settings.
+-General stability fixes for the application setting system.
+-Fixed a bug occurring when exiting the application with close discord process at 
+application exit setting set to on.
+
+
+
+CHANGE LOG FOR VERSION 1.0.2.2
+
+-Softcoded Discord Application path. Now Discord Launcher searches in 
+the Registry for Discord's application path.
+-Implemented settings feature. (BETA)
+-The application checks if the .settings file is present in the folder at startup.
+-The application settings persit between application updates if the application's
+.exe directory is not changed. (Will be fixed when the application installer is 
+implemented)
+
+
+CHANGE LOG FOR VERSION 1.0.2.1
+
+-Further application updater stability improvements.
+-If Discord is already running when the app is starting, now the app displays a
+message to confirm running state.
+-Only one instance of the application is now allowed.
+-Fixed a typo in the application update dialog.
+
+
+CHANGE LOG FOR VERSION 1.0.2.0
+
+-Fixed a bug ocurring when closing the app from the icon tray.
+-Massive changes to the app update system.
+-Future updates will work only from version 1.0.2.0 and newer.
+-Remove past updates from the change log.(for all logs visit the GitHub page) 
+-Changed the looks of the change log window.
+-App checks for updates at launch by default and only display a message if
+it finds one available.
+-Added check for updates button in the main menu.
+-One click experience at startup.
+
+
+**SECTION 2.0 THE FEATURE BUILD**
+
+
+CHANGE LOG FOR VERSION 1.0.1.4
+
+-Added application updater service. (BETA)
+-Renamed application to Discord Launcher.
+
+
+CHANGE LOG FOR VERSION 1.0.1.3
+
+-Fixed stability issues.
+-Change log button in GUI fixed.
+-Changes to the change log window.
+
+
+**SECTION 1.0 THE INITIAL BUILD**
